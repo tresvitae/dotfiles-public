@@ -1,9 +1,7 @@
 # dotfiles-public
-
-These are my dotfiles and cheatsheets for basic Terminal setup on MacOS / Linux / Windows WSL2.
+These are my dotfiles and cheatsheets for basic Terminal setup on Linux / Windows WSL2.
 
 # Setup Zsh/Starship
-
 I use Zsh as my default shell, Oh-my-zsh for plugins and Startship for my prompt. The themes I have also require Nerd Fonts.
 
 - Run the installation commands below
